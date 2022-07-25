@@ -1,0 +1,9 @@
+*{margin: 0;padding: 0;box-sizing: border-box;scrollbar-width: thin;}
+*::-webkit-scrollbar {
+    width: 8px;
+    background-color: gray;
+}
+body{font-family: Roboto;}
+a{text-decoration: inherit;color: inherit;}
+
+.app{min-height: 98.5vh;border: 4px solid rgba(58, 91, 94, 0.849);margin: 5px;padding: 5px;}
